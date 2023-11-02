@@ -1,0 +1,5 @@
+proc: process_1.cpp
+	 g++ -o proc process_1.cpp
+	 
+clean:
+	 rm -f proc
